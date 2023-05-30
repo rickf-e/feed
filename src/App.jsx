@@ -16,7 +16,7 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
+      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. Vamos pra cima e espero que gostem 🚀' },
       { type: 'link', content: '👉 ph.webdeveloper/front-end' }      
     ],
     publishedAt: new Date('2023-05-26 11:05:00')
